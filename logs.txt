@@ -1,0 +1,66 @@
+2023-12-19 17:51:06 rohit-VirtualBox sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/1 ruser=rohit rhost=  user=rohit
+2023-12-19 17:51:33 rohit-VirtualBox sudo: rohit : 3 incorrect password attempts ; TTY=pts/1 ; PWD=/home/rohit ; USER=root ; COMMAND=/usr/bin/cat /var/log/faillog
+2023-12-19 17:51:56 rohit-VirtualBox sudo: rohit : TTY=pts/1 ; PWD=/home/rohit ; USER=root ; COMMAND=/usr/bin/cat /var/log/faillog
+2023-12-19 17:52:01 rohit-VirtualBox sudo: rohit : TTY=pts/1 ; PWD=/home/rohit ; USER=root ; COMMAND=/usr/bin/cat /var/log/faillog
+2023-12-19 23:51:06 rohit-VirtualBox sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=rohit rhost=  user=rohit
+2023-12-19 16:08:25 status installed shared-mime-info:amd64 2.1-2
+2023-12-19 16:08:26 status installed udev:amd64 249.11-0ubuntu3.11
+2023-12-19 16:08:26 status installed libmutter-10-0:amd64 42.9-0ubuntu5
+2023-12-19 16:08:26 status installed mailcap:all 3.70+nmu1ubuntu1
+2023-12-19 16:08:27 status installed fontconfig:amd64 2.13.1-4.2ubuntu5
+2023-12-19 16:08:27 status installed gir1.2-mutter-10:amd64 42.9-0ubuntu5
+2023-12-19 16:08:27 status installed gnome-remote-desktop:amd64 42.9-0ubuntu0.22.04.1
+2023-12-19 16:08:27 status installed gnome-control-center:amd64 1:41.7-0ubuntu0.22.04.8
+2023-12-19 16:08:49 status installed initramfs-tools:all 0.140ubuntu13.4
+2023-12-19 16:08:49 status installed libc-bin:amd64 2.35-0ubuntu3.5
+2023-12-19 16:07:32 status installed libcups2:amd64 2.4.1op1-1ubuntu4.7
+2023-12-19 16:07:34 status installed avahi-daemon:amd64 0.8-5ubuntu5.2
+2023-12-19 16:07:34 status installed libevdocument3-4:amd64 42.3-0ubuntu3.1
+2023-12-19 16:07:34 status installed bind9-dnsutils:amd64 1:9.18.18-0ubuntu0.22.04.1
+2023-12-19 16:07:34 status installed libavahi-ui-gtk3-0:amd64 0.8-5ubuntu5.2
+2023-12-19 16:07:34 status installed libfreerdp-client2-2:amd64 2.6.1+dfsg1-3ubuntu2.5
+2023-12-19 16:07:34 status installed cups-ipp-utils:amd64 2.4.1op1-1ubuntu4.7
+2023-12-19 16:07:34 status installed libuno-cppuhelpergcc3-3:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:07:34 status installed cups-ppdc:amd64 2.4.1op1-1ubuntu4.7
+2023-12-19 16:07:34 status installed libgs9:amd64 9.55.0~dfsg1-0ubuntu5.6
+2023-12-19 16:07:34 status installed libevview3-3:amd64 42.3-0ubuntu3.1
+2023-12-19 16:07:34 status installed avahi-utils:amd64 0.8-5ubuntu5.2
+2023-12-19 16:07:34 status installed samba-libs:amd64 2:4.15.13+dfsg-0ubuntu1.5
+2023-12-19 16:07:34 status installed ghostscript:amd64 9.55.0~dfsg1-0ubuntu5.6
+2023-12-19 16:07:34 status installed cups-client:amd64 2.4.1op1-1ubuntu4.7
+2023-12-19 16:07:34 status installed libcupsimage2:amd64 2.4.1op1-1ubuntu4.7
+2023-12-19 16:07:37 status installed cups-daemon:amd64 2.4.1op1-1ubuntu4.7
+2023-12-19 16:07:37 status installed libsmbclient:amd64 2:4.15.13+dfsg-0ubuntu1.5
+2023-12-19 16:07:42 status installed ure:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:07:42 status installed cups-core-drivers:amd64 2.4.1op1-1ubuntu4.7
+2023-12-19 16:07:48 status installed cups:amd64 2.4.1op1-1ubuntu4.7
+2023-12-19 16:07:49 status installed cups-bsd:amd64 2.4.1op1-1ubuntu4.7
+2023-12-19 16:07:49 status installed ghostscript-x:amd64 9.55.0~dfsg1-0ubuntu5.6
+2023-12-19 16:08:06 status installed libreoffice-common:all 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:06 status installed bluez-cups:amd64 5.64-0ubuntu1.1
+2023-12-19 16:08:06 status installed libreoffice-core:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:08 status installed libreoffice-math:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:08 status installed libreoffice-gtk3:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:08 status installed libreoffice-pdfimport:all 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:12 status installed libreoffice-draw:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:13 status installed libreoffice-gnome:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:16 status installed libreoffice-impress:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:16 status installed libreoffice-base-core:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:19 status installed python3-uno:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:19 status installed libreoffice-ogltrans:all 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:20 status installed libreoffice-calc:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:22 status installed libreoffice-writer:amd64 1:7.3.7-0ubuntu0.22.04.4
+2023-12-19 16:08:22 status installed desktop-file-utils:amd64 0.26-1ubuntu3
+2023-12-19 16:08:22 status installed hicolor-icon-theme:all 0.17-2
+2023-12-19 16:08:22 status installed gnome-menus:amd64 3.36.0-1ubuntu3
+2023-12-19 16:08:22 status installed tracker-extract:amd64 3.3.3-0ubuntu0.20.04.1
+2023-12-19 16:08:22 status installed software-properties-gtk:all 0.99.22.8
+2023-12-19 16:08:22 status installed mutter-common:all 42.9-0ubuntu5
+2023-12-19 16:08:22 status installed gnome-control-center-data:all 1:41.7-0ubuntu0.22.04.8
+2023-12-19 16:08:22 status installed evince:amd64 42.3-0ubuntu3.1
+2023-12-19 16:08:22 status installed libglib2.0-0:amd64 2.72.4-0ubuntu2.2
+2023-12-19 16:08:22 status installed libc-bin:amd64 2.35-0ubuntu3.5
+2023-12-19 16:08:23 status installed ufw:all 0.36.1-4ubuntu0.1
+2023-12-19 16:08:24 status installed man-db:amd64 2.10.2-1
+2023-12-19 16:08:24 status installed tracker-miner-fs:amd64 3.3.3-0ubuntu0.20.04.1
+2023-12-19 16:08:24 status installed dbus:amd64 1.12.20-2ubuntu4.1
